@@ -8,4 +8,6 @@ featuredimage: /img/og-image.jpg
 tags:
   - test
 ---
+![](/img/og-image.jpg)
+
 Netlfy cms est trop cool
